@@ -1,0 +1,15 @@
+body{
+ color de fondo: blue;
+}
+h1{
+    color: blue;
+    familia de fuentes:times new roman;
+    tamaño de fuente:25px;
+    alineacion de texto:centro;
+    decoracion de texto:subrayado;
+}
+p{
+    color: blueviolet;
+    familia de fuente:verdena;
+    alineacion de texto:justificar;
+}
